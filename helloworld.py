@@ -7,5 +7,5 @@ print(1 + 2)
 b = 35
 c = a * b
 print(c)
-ant = a
+ant1 = a
 print(a)
